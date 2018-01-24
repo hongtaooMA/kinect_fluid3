@@ -1,5 +1,7 @@
 # A magical mirror project # kinect_fluid
 
+![](https://github.com/hongtaooMA/kinect_fluid3/blob/master/001.jpg)
+
 Dependancy: 
 1. Kinect 2.0, SDK version: https://github.com/shiffman/OpenKinect-for-Processing
 2. Pixelflow Library for Processing: http://thomasdiewald.com/processing/libraries/pixelflow/
@@ -8,6 +10,8 @@ Dependancy:
 Make sure you could run the Kinect and Pixelflow examples before running kinect_fluid
 
 Perfect for Halloween party.
+
+![](https://github.com/hongtaooMA/kinect_fluid3/blob/master/008.jpg)
 
 Run kinect_fluid3.pde directly to test the program, and adjust the position of kinect until you find the screen a mirror of reality.
 
